@@ -15,26 +15,26 @@
 test1: [] <br />
 test2: ["0", "#", "0", "0", "0", "#", "0", "#", "#","0"] <br />
 test3: ["0", "#", "0", "#", "0", "#", "0", "#", "#"] <br />
-
-C0  test1  test2  test3
-A     *      *      *
-B     *
-C            *      *
-D            *
-E                   *
-F                   *
-G                   *
-H                   *
-I                   *
-J                   *
-K                   *
-L                   *
-M                   *
-N                   *
-O                   *
-P                   *
-Z                   *
-
+<br />
+C0  test1  test2  test3 <br />
+A     *      *      * <br /> 
+B     *               <br />
+C            *      * <br />
+D            *        <br />
+E                   * <br />
+F                   * <br />
+G                   * <br />
+H                   * <br />
+I                   * <br />
+J                   * <br />
+K                   * <br />
+L                   * <br />
+M                   * <br />
+N                   * <br />
+O                   * <br />
+P                   * <br />
+Z                   * <br />
+<br />
 
 ### Тест случаи според every path
 
