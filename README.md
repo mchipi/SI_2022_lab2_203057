@@ -16,24 +16,7 @@ test1: [] <br />
 test2: ["0", "#", "0", "0", "0", "#", "0", "#", "#","0"] <br />
 test3: ["0", "#", "0", "#", "0", "#", "0", "#", "#"] <br />
 <br />
-C0  test1  test2  test3 <br />
-A     *      *      * <br /> 
-B     *               <br />
-C            *      * <br />
-D            *        <br />
-E                   * <br />
-F                   * <br />
-G                   * <br />
-H                   * <br />
-I                   * <br />
-J                   * <br />
-K                   * <br />
-L                   * <br />
-M                   * <br />
-N                   * <br />
-O                   * <br />
-P                   * <br />
-Z                   * <br />
+<img width="152" alt="image" src="https://user-images.githubusercontent.com/100198968/171875846-9cfddc32-1a4f-4172-8d4a-912dde8fdfda.png"> 
 <br />
 
 ### Тест случаи според every path
